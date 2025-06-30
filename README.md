@@ -4,3 +4,4 @@ Test knowledge of python
 2. Write out each function under each question
 3. add into the bottom of the file print statements for exectuing each function
 4. use the sample datasets as your guide to the print statements
+5. please submit the final .py file back to intelisys
